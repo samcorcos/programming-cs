@@ -128,9 +128,9 @@ Arguments for, to discuss/refute:
 So, with various points considered, what exactly should we do?
 
 1. Make CS more than an elective. A series of missing incentives has been stunting the growth of computer science education. When a class doesn't count for anything, there's:
-- no incentive for students to take it, and thus
-- no incentive for schools to offer it, and thus
-- no incentive for teachers to train to teach it
+  - no incentive for students to take it, and thus
+  - no incentive for schools to offer it, and thus
+  - no incentive for teachers to train to teach it
 
 2. Make a broad introductory CS course accessible to every student. We only need to offer enough for students to try it out and see if they like it. If they do, and they want to learn more, the course served its purpose, and hopefully more in-depth offerings are also available. If they don't, the course should have still taught some useful understandings, not just a bunch of programming specifics that the uninterested student is likely to never use again.
 
