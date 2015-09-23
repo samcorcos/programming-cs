@@ -120,14 +120,10 @@ So, with various points considered, what exactly should we do?
 3. Establish clear certification pathways and curricula for computer science teachers. Few states have done this, but it helps make teaching computer science more accessible to interested teachers. That leads to more computer science teachers, which enables more schools to offer computer science classes. It also helps us know when we have enough CS teachers to consider bigger future initiatives, which will require more resources than are currently available.
 
 Returning to our original four questions:
-
-"Should all schools offer CS classes?" - Absolutely, as much as possible.
-
-"Should all schools offer programming classes?" - Yes, if we have enough good teachers to teach them, but there's no sense in doing it poorly or without sufficient resources.
-
-"Should all schools require CS classes?" - Eventually, yes, but definitely not yet.
-
-"Should all schools require programming classes?" - Absolutely not.
+- "Should all schools offer CS classes?" - Absolutely, as much as possible.
+- "Should all schools offer programming classes?" - Yes, if we have enough good teachers to teach them, but there's no sense in doing it poorly or without sufficient resources.
+- "Should all schools require CS classes?" - Eventually, yes, but definitely not yet.
+- "Should all schools require programming classes?" - Absolutely not.
 
 To whomever may be reading this, I'm quite interested to hear what you think.
 
