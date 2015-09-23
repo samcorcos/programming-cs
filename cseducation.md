@@ -11,10 +11,10 @@ Advocates of computer science education have been pushing for improvements to pr
 With so many such public advocates coming forward in recent months, especially surrounding Code.org's "Hour of Code" campaign last December, there's been plenty of buzz about computer science education. Visitors to Code.org are asked if they agree with the notion that "Every student in every school should have the opportunity to learn computer science," and to sign their name to show support. Nearly 2 million people have done so, myself included.
 
 But there's a subtlety at play when you try to get more specific and ask someone exactly /what/ they support; there are plenty of different questions posed, and it's difficult to have a conversation about the future of computer science education without mixing them up:
-"Should every school offer CS classes?"
-"Should every school offer programming classes?"
-"Should every school require CS classes?"
-"Should every school require programming classes?"
+- "Should every school offer CS classes?"
+- "Should every school offer programming classes?"
+- "Should every school require CS classes?"
+- "Should every school require programming classes?"
 
 The most idealist advocates suggest the answer to all of them is "Yes, absolutely, everywhere", but most have less absolute and more varying answers. Each one is more difficult than the last to answer with certainty, and one must give careful consideration to these very different questions.
 
