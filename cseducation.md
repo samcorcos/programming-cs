@@ -60,15 +60,14 @@ I've seen it first hand over and over in my time as a teaching assistant for var
 
 Even if we dismiss the notion that many people just don't grasp programming as well as others, Dan Bricklin, a decorated technologist best known for inventing the electronic spreadsheet, offers another take:
 
-  "Programming is a very error-prone business, especially with "typed-statement" systems. Most of them are very intolerant of errors (even simple typos). You must really have a good conceptual model of how each individual statement (and its sub-components) effects the result in conjunction with each other statement. You have to know how to check for proper operation (testing) and how to find out what to fix if it isn't (debugging). Unless you are totally immersed in that particular programming system (understanding the varieties and subtleties of its statements and functions) it is very hard for most people to do this. Most people will not get immersed in such systems that way.
-
-  ...this is not to say that many people can't get immersed in systems that require such understanding. They do in many parts of their lives. For example, lawyers and tax accountants routinely work with such complexity in their contracts and planning. Doctors work with an untold number of variables. Someone planning a big party has to work out the food, matching paper goods, favors, invitation list, entertainment, etc. Yet, all of these people rarely program computers in addition. It's just that people who aren't professional or hobbyist programmers usually don't want to get so immersed in something that is infrequently done and not part of the rest of their lives. The question really isn't "Why Johnny can't program" but rather "Why Johnny won't or doesn't choose to program"."
+> Programming is a very error-prone business, especially with "typed-statement" systems. Most of them are very intolerant of errors (even simple typos). You must really have a good conceptual model of how each individual statement (and its sub-components) effects the result in conjunction with each other statement. You have to know how to check for proper operation (testing) and how to find out what to fix if it isn't (debugging). Unless you are totally immersed in that particular programming system (understanding the varieties and subtleties of its statements and functions) it is very hard for most people to do this. Most people will not get immersed in such systems that way.
+> ...this is not to say that many people can't get immersed in systems that require such understanding. They do in many parts of their lives. For example, lawyers and tax accountants routinely work with such complexity in their contracts and planning. Doctors work with an untold number of variables. Someone planning a big party has to work out the food, matching paper goods, favors, invitation list, entertainment, etc. Yet, all of these people rarely program computers in addition. It's just that people who aren't professional or hobbyist programmers usually don't want to get so immersed in something that is infrequently done and not part of the rest of their lives. The question really isn't "Why Johnny can't program" but rather "Why Johnny won't or doesn't choose to program".
 
 Instead of splitting people into performance-based buckets, he considers motivations and complexity and suggests that maybe there's some self-selection going on. Maybe some people just don't want to invest heavily in something for which they see correspondingly little use. Maybe some people like some flavors of complexity but not others.
 
 Sam Altman, President of Y Combinator (the famous seed fund which helped Dropbox, Airbnb, and countless other technology companies get off the ground), recently tweeted a concise summary of this notion:
 
-  "Everyone should have the opportunity to learn to code. But it's not the answer to everything. Not everyone will like it or be good at it. I will never like or be good at football. A world where CS is the only option would be a sad one indeed."
+> Everyone should have the opportunity to learn to code. But it's not the answer to everything. Not everyone will like it or be good at it. I will never like or be good at football. A world where CS is the only option would be a sad one indeed.
 
 So what does all this mean? Programming isn't for everyone. Not everyone will like or be good at it, just like not everyone will like or be good at many other things. Plenty of people have little desire to learn accounting or law, and plenty of people have little desire to learn to program.
 
@@ -81,51 +80,31 @@ The education system will thus make more efficient use of its finite resources b
 I very strongly believe that every student should have this opportunity to learn some computer science, at least enough for them to decide if they like it. Why, then, have I not said that we should put every student through such a class?
 
 Arguments against blanket programming/cs req, to present/support:
+
 - Many bright students at top universities find that it's just not for them, so why should we force it to be for everyone?
-
 - What would it replace? What is it more important than? Are there better things to fix first in the general high school curriculum?
-
 - Let kids do it if they want, but why /require/?
-
 - Most states dont even have CS curricula/certifications, much less a good way to measure the effectiveness of CS curricula/teachers
-
 - Goat sheep argument: some kids will simply fail, we don't need to make them miserable
-
 - Scarcity of good CS teachers: we just don't have enough, and forcing everyone to take an intro class isn't the best use of the ones we have. needs time until we'll have the resources to make it part of standard curriculum.
-
 - Most highschoolers are still learning how to teach themselves new things, we can't escape the need for teachers
-
 - Existing effective online learning efforts are still very hands-on with remote teachers
-
 - True need is to teach students to think; CS is neither necessary nor the one true way to do that
-
 - Students that are sufficiently motivated/interested will find this material on their own, or at least explore it further on their own after being introduced
-
 - CS majors make lots of money, so "there's not enough incentive for truly qualified programmers/engineers to pursue teaching their subject in the public school system."
-
 - No evidence that starting programming early is necessary or even beneficial: lots of people learn to code in college, and prior experience is not a predictive factor
-
 - We don't want students who would otherwise be interested to be turned away from the field prematurely by a poorly implemented or undersupported graduation requirement
 
 Arguments for, to discuss/refute:
-
-  Mandatory CS courses will happen eventually, so they might as well happen now.
-
-  Learning to code is easier today than ever before.
-
-  There is almost no reason not to teach students how to program.
-
-  "you dont have to be a genius to code" - "don't have to be a genius to do math"
-
-  Just because it's intimidating or challenging doesn't mean people shouldn't try.
-
-  Students don't even know what computer science is since schools don't teach it.
-
-  Programming teaches you to actually think.
-
-  Online resources like Codecademy and Code.org make a teacher with programming experience unnecessary.
-
-  Having a programming background is important for running a business or organization.
+- Mandatory CS courses will happen eventually, so they might as well happen now.
+- Learning to code is easier today than ever before.
+- There is almost no reason not to teach students how to program.
+- "you dont have to be a genius to code" - "don't have to be a genius to do math"
+- Just because it's intimidating or challenging doesn't mean people shouldn't try.
+- Students don't even know what computer science is since schools don't teach it.
+- Programming teaches you to actually think.
+- Online resources like Codecademy and Code.org make a teacher with programming experience unnecessary.
+- Having a programming background is important for running a business or organization.
 
 So, with various points considered, what exactly should we do?
 
