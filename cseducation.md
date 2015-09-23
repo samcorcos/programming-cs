@@ -35,6 +35,7 @@ Of course, part of the confusion comes from history: AP Computer Science A (and 
 This new AP CS Principles curriculum was introduced in late 2014 for launch during the 2016-17 school year, and 60 million students participated in "Hour of Code" in 2014, compared to just 20 million in 2013. We now have 27 states recognizing computer science courses as more than just an elective. Even over just the last two years, we've seen great improvements, but where we are now isn't enough for the long term. The internet isn't going anywhere, and neither are personal computing devices, with over one billion smartphones sold in 2014. What do we have to do to keep up?
 
 "Make everyone learn to code!" - Maybe not that much.
+
 "Give everyone the opportunity to learn computer science!" - Yes, at least this much!
 
 Now that I've stuck my flag in the ground and established the beginnings of a position, let me begin to develop it by presenting some more context and background before I launch into discussion of a series of arguments both for and against that position. First, who am I, what is my interest in this topic, and what perspective do I have?
