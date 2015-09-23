@@ -79,6 +79,8 @@ The education system will thus make more efficient use of its finite resources b
 
 I very strongly believe that every student should have this opportunity to learn some computer science, at least enough for them to decide if they like it. Why, then, have I not said that we should put every student through such a class?
 
+(the below bullet points represent points of discussion on which to expand, but listing them here makes this document readable and relatively continuous even in its incomplete state)
+
 Arguments against blanket programming/cs req, to present/support:
 
 - Many bright students at top universities find that it's just not for them, so why should we force it to be for everyone?
