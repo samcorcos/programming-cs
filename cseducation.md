@@ -97,11 +97,7 @@ Sam Altman, President of Y Combinator (the famous seed fund which helped Dropbox
 
 > Everyone should have the opportunity to learn to code. But it's not the answer to everything. Not everyone will like it or be good at it. I will never like or be good at football. A world where CS is the only option would be a sad one indeed.
 
-So what does all this mean? Programming isn't for everyone. Not everyone will like or be good at it, just like not everyone will like or be good at many other things. Plenty of people have little desire to learn accounting or law, and plenty of people have little desire to learn to program.
-
-All we need to do is knock on that potential desire's door and see if anyone answers. All we need to do is give students the opportunity to learn some computer science, including but not limited to an introduction to programming (think AP CS Principles), and they'll see for themselves if they want to learn more.
-
-
+So what does all this mean? Programming isn't for everyone. Not everyone will like or be good at it; the same goes for computer science. But it is imperative that students have exposure to both subjects as early as possible so they can see for themselves if they want to learn more.
 
 ## Policy Recommendations
 
@@ -111,7 +107,7 @@ Perhaps the most influential figures in the development of modern computing, Ste
 
 > "Everybody in this country should learn how to program a computer."
 
-The Code.org petition is certainly a big step towards that vision, but as mentioned earlier, programming is not the same thing as computer science. I should mention that I am not demeaning programming, and it could be argued that an education in programming is more valuable than an education in computer science—it's hardly debatable that programming is a more marketable skill. But it is important to note the difference between the two and treat them accordingly.
+The Code.org petition is certainly a big step towards that vision, but as mentioned earlier, programming is not the same thing as computer science.
 
 
 
@@ -130,13 +126,7 @@ The Code.org petition is certainly a big step towards that vision, but as mentio
 
 
 
-The students who find that they don't will still get something useful; they'll leave with a basic understanding of how computers are programmed and a variety of new understandings of how the technological world works. Perhaps more importantly, by taking an overview class instead of an all-programming class, they'll manage to avoid the negative experience of trying to immerse themselves in the increasing complexities of programming for several months /after/ they've already figured out that they either don't have a knack for it or just don't particularly like it.
 
-The education system will thus make more efficient use of its finite resources by allowing students to give computer science a try and then self-select, and we'll end up with fewer unfortunate students trudging through all-programming classes in which they have neither interest nor inclination.
-
-I very strongly believe that every student should have this opportunity to learn some computer science, at least enough for them to decide if they like it. Why, then, have I not said that we should put every student through such a class?
-
-(the below bullet points represent points of discussion on which to expand, but listing them here makes this document readable and relatively continuous even in its incomplete state)
 
 Arguments against blanket programming/cs req, to present/support:
 
