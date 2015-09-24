@@ -1,5 +1,4 @@
-# Should our schools offer programming or computer science courses?
-## (hint: they're not the same thing)
+# Should our schools offer programming or computer science courses? _(hint: they're not the same thing)_
 
 Advocates of computer science education have been pushing for improvements to pre-university computer science education, often bemoaning its underrepresentation and lack of recognition in our high schools. They're not without cause: as recently as 2013, only 9 U.S. states recognized Computer Science as a math or science class, and 90% of high schools had no offerings in the field. Countless big names have gotten behind efforts to improve this, and made big statements of encouragement:
 
