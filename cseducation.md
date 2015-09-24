@@ -13,15 +13,25 @@ With so many public advocates coming forward—especially surrounding Code.org's
 But there's a subtlety at play when you try to get more specific and ask someone exactly _what_ they support. Do you support "programming" or "computer science" courses? Contrary to what you may think, these two subjects are about as different as Latin is to linear algebra. Allow me to explain.
 
 ## What is computer science?
+<img src="//upload.wikimedia.org/math/4/c/7/4c7865eedf738031608f23d47d2d51d3.png" />
 
 It's math. As a computer science major myself, I can tell you first hand that computer science involves writing very little code—especially at the higher levels. If I had to arbitrarily assign a percentage to "math v. programming", I would say that computer science is at least 80% math and at most 20% programming.
 
 In computer science you learn:
-- <!-- test-->
+- How servers communicate with end-users and each other
+- Sorting algorithms
+- Encryption algorithms
+- __INSERT OTHER MATH THINGS HERE__
+
+It is very common for computer science courses to have a mathematics prerequisite. Algorithms and data structures are heavily reliant on a background in math.
+
+Also contrary to popular opinion, computer science majors are not necessarily good programmers. Granted, they show a higher aptitude towards becoming a good programmer, but they rarely know how to code anything useful coming out of college with a computer science degree.
 
 ## What is programming?
 
-It's somewhere between a foreign language and going to trade school.
+It's somewhere between a foreign language and formal logic. A word you will hear a lot in programming is "syntax", which is how a particular programming language structures its logic. This might sound familiar because it's the same word—not coincidentally—that foreign language classes use to describe the structure of sentences.
+
+Programming does not require a highly mathematical background, and much like a foreign language, the only way to become a better programmer is to practice. Most people who start programming are surprised to discover how easy it is to learn and how little math is involved. As a friend once described it to me, "Once it stops looking like The Matrix, it's actually pretty easy." In my experience, change of perception usually takes less than a month.
 
 ##
 
