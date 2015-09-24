@@ -1,6 +1,4 @@
-# Should our schools offer programming or computer science courses?
-
-<h3>_hint: they're not the same thing_</h3>
+# Should our schools offer programming or computer science courses? _HINT: they're not the same thing_
 
 by [Lewis Ellis](http://github.com/lewisjellis) and [Sam Corcos](http://github.com/samcorcos)
 
@@ -70,6 +68,22 @@ This new AP Computer Science Principles curriculum was introduced in late 2014 f
 
 But in spite of these improvements, our education system is moving too slowly and without a clear understanding of the direction in which we are going.
 
+## Challenges of Teaching Programming
+
+Curriculum for computer science courses is fairly uniform and well established. The mathematical underpinning of the subject matter has not changed in decades so teaching a class from year to year with the same, refined lectures is practical.
+
+Programming, on the other hand, is quite different. There are dozens of major programming languages, each with varying use cases, complexity, and performance. Not only are there dozens of languages, but there are also hundreds of frameworks around these languages that change at an even faster rate. This makes it nearly impossible to teach an up-to-date course on the subject, but there are ways around this problem, to be discussed later.
+
+Most college-level programming courses (inappropriately named "computer science") teach a programming language called Java. Java was introduced by Oracle in the mid-1990s and was wildly popular and is still widely used today. Without going into too much detail, Java is not the programming language that students should be learning now: 20 years after the release of Java. The programming language of the future is a language called JavaScript, _which, in spite of its similar name, is actually in no way related to Java_.
+
+JavaScript is the most widely known programming language and it is the most employable language. Most of the next-generation web frameworks are run entirely on JavaScript, including Angular (supported by Google), React (supported by Facebook), and Meteor. JavaScript allows you to build full-featured software, websites, mobile apps, and just about anything else you can think of. And thanks to a massive investment in the language from Google (for more information, see [V8](https://code.google.com/p/v8/)), JavaScript is now more than 5 times faster than Python, the currently favored programming language of science and academia.
+
+Even with everything JavaScript has going for it, it's difficult for me to say that all programming courses should teach JavaScript, at least at the introductory level. The efficacy of programming languages changes over time, so setting an inflexible curriculum could do more harm than good, which is how we ended up with classes teaching Java held over from the 90s.
+
+Certain programming languages are also better at doing certain tasks. C++ is a very old language that is still among the most efficient languages available. Python also has a vast array of resources available that make machine learning much more practical than an implementation in JavaScript.
+
+Another major challenge of teaching programming is the difficulty of settings curricula and measuring effectiveness. Also, as mentioned above, grading is a laborious process that is—ironically—completed manually in most classrooms.
+
 ## Policy Options
 
 When students are asked about what got them interested in computer science, a common thread quickly becomes apparent: they liked computer science after only a brief exposure to the topic. I've never heard anyone say that it took a long time to develop an interest in the subject; they just needed an introduction, and curiosity took care of the rest.
@@ -97,88 +111,27 @@ Sam Altman, President of Y Combinator (the famous seed fund which helped Dropbox
 
 So what does all this mean? Programming isn't for everyone. Not everyone will like or be good at it; the same goes for computer science. But it is imperative that students have exposure to both subjects as early as possible so they can see for themselves if they want to learn more.
 
-## Challenges of Teaching Programming
-
-Curriculum for computer science courses is fairly uniform and well established. The mathematical underpinning of the subject matter has not changed in decades so teaching a class from year to year with the same, refined lectures is practical.
-
-Programming, on the other hand, is quite different. There are dozens of major programming languages, each with varying use cases, complexity, and performance. Most college-level programming courses (inappropriately named "computer science")
-
 ## Policy Recommendations
 
-Some measures are easy to support unconditionally: Yes, a good computer science class should count as more than an elective. Yes, more schools should offer computer science classes. Yes, we want more people to learn computer science. But beyond these, there exist many different schools of thought.
+Some measures are easy to support unconditionally: Yes, a good computer science class should count as more than an elective. Yes, more schools should offer computer science classes. Yes, we want more people to learn computer science. But there are
 
-Perhaps the most influential figures in the development of modern computing, Steve Jobs gave us a suggestion when he said:
+One recommendation is to make a broad introductory CS course accessible to every student. We only need to offer enough for students to try it out and see if they like it. If they do, and they want to learn more, the course served its purpose, and hopefully more in-depth offerings are also available. If they don't, the course should have still taught some useful understandings, not just a bunch of programming specifics that the uninterested student is likely to never use again.
 
-> "Everybody in this country should learn how to program a computer."
-
-The Code.org petition is certainly a big step towards that vision, but as mentioned earlier, programming is not the same thing as computer science.
+Another recommendation is to set clear certification pathways and curricula for computer science teachers. Few states have done this, but it helps make teaching computer science more accessible to interested teachers. That leads to more computer science teachers, which enables more schools to offer computer science classes. It also helps us know when we have enough CS teachers to consider bigger future initiatives, which will require more resources than are currently available.
 
 As a broad policy, I would recommend the following:
 
 ```
-High schools should offer both programming and computer science.
-Programming courses should count in place of a foreign language.
-Computer science courses should count in place of a math or science course.
+High schools should offer computer science courses with the current curriculum.
+High schools should offer programming courses in JavaScript.
+All students should have exposure to at least an introductory computer science or programming course.
+Computer science courses should satisfy a math or science course requirement.
+Programming courses should satisfy a foreign language requirement.
 ```
 
+Courses beyond the introductory-level can be language agnostic.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Arguments against blanket programming/cs req, to present/support:
-- What would it replace? What is it more important than? Are there better things to fix first in the general high school curriculum?
-- Let kids do it if they want, but why /require/?
-- Most states dont even have CS curricula/certifications, much less a good way to measure the effectiveness of CS curricula/teachers
-- Goat sheep argument: some kids will simply fail, we don't need to make them miserable
-- Scarcity of good CS teachers: we just don't have enough, and forcing everyone to take an intro class isn't the best use of the ones we have. needs time until we'll have the resources to make it part of standard curriculum.
-- Most highschoolers are still learning how to teach themselves new things, we can't escape the need for teachers
-- Existing effective online learning efforts are still very hands-on with remote teachers
-- True need is to teach students to think; CS is neither necessary nor the one true way to do that
-- Students that are sufficiently motivated/interested will find this material on their own, or at least explore it further on their own after being introduced
-- CS majors make lots of money, so "there's not enough incentive for truly qualified programmers/engineers to pursue teaching their subject in the public school system."
-- No evidence that starting programming early is necessary or even beneficial: lots of people learn to code in college, and prior experience is not a predictive factor
-- We don't want students who would otherwise be interested to be turned away from the field prematurely by a poorly implemented or undersupported graduation requirement
-
-Arguments for, to discuss/refute:
-- Mandatory CS courses will happen eventually, so they might as well happen now.
-- Learning to code is easier today than ever before.
-- There is almost no reason not to teach students how to program.
-- "you dont have to be a genius to code" - "don't have to be a genius to do math"
-- Just because it's intimidating or challenging doesn't mean people shouldn't try.
-- Students don't even know what computer science is since schools don't teach it.
-- Programming teaches you to actually think.
-- Online resources like Codecademy and Code.org make a teacher with programming experience unnecessary.
-- Having a programming background is important for running a business or organization.
-
-So, with various points considered, what exactly should we do?
-
-1. Make CS more than an elective. A series of missing incentives has been stunting the growth of computer science education. When a class doesn't count for anything, there's:
-  - no incentive for students to take it, and thus
-  - no incentive for schools to offer it, and thus
-  - no incentive for teachers to train to teach it
-
-2. Make a broad introductory CS course accessible to every student. We only need to offer enough for students to try it out and see if they like it. If they do, and they want to learn more, the course served its purpose, and hopefully more in-depth offerings are also available. If they don't, the course should have still taught some useful understandings, not just a bunch of programming specifics that the uninterested student is likely to never use again.
-
-3. Establish clear certification pathways and curricula for computer science teachers. Few states have done this, but it helps make teaching computer science more accessible to interested teachers. That leads to more computer science teachers, which enables more schools to offer computer science classes. It also helps us know when we have enough CS teachers to consider bigger future initiatives, which will require more resources than are currently available.
-
-Returning to our original four questions:
-- "Should all schools offer CS classes?" - Absolutely, as much as possible.
-- "Should all schools offer programming classes?" - Yes, if we have enough good teachers to teach them, but there's no sense in doing it poorly or without sufficient resources.
-- "Should all schools require CS classes?" - Eventually, yes, but definitely not yet.
-- "Should all schools require programming classes?" - Absolutely not.
+__NEEDS MORE CONCISE RECOMMENDATIONS__
 
 To whomever may be reading this, I'm quite interested to hear what you think.
 
