@@ -8,21 +8,32 @@ Advocates of computer science education have been pushing for improvements to pr
 
 > "Give it a shot, and don't let anyone tell you you can't" - President Obama
 
-With so many such public advocates coming forward in recent months, especially surrounding Code.org's "Hour of Code" campaign last December, there's been plenty of buzz about computer science education. Visitors to Code.org are asked if they agree with the notion that "Every student in every school should have the opportunity to learn computer science," and to sign their name to show support. Nearly 2 million people have done so, myself included.
+With so many public advocates coming forward—especially surrounding Code.org's "Hour of Code" campaign in December of 2014—computer science education has become a mainstream issue. Visitors to Code.org are asked if they agree with the notion that "Every student in every school should have the opportunity to learn computer science," and to sign their name to show support. Nearly 2 million people have done so, myself included.
 
-But there's a subtlety at play when you try to get more specific and ask someone exactly /what/ they support; there are plenty of different questions posed, and it's difficult to have a conversation about the future of computer science education without mixing them up:
-- "Should every school offer CS classes?"
-- "Should every school offer programming classes?"
-- "Should every school require CS classes?"
-- "Should every school require programming classes?"
+But there's a subtlety at play when you try to get more specific and ask someone exactly _what_ they support. Do you support "programming" or "computer science" courses? Contrary to what you may think, these two subjects are about as different as Latin is to linear algebra. Allow me to explain.
 
-The most idealist advocates suggest the answer to all of them is "Yes, absolutely, everywhere", but most have less absolute and more varying answers. Each one is more difficult than the last to answer with certainty, and one must give careful consideration to these very different questions.
+## What is computer science?
+
+It's math. As a computer science major myself, I can tell you first hand that computer science involves writing very little code—especially at the higher levels. If I had to arbitrarily assign a percentage to "math v. programming", I would say that computer science is at least 80% math and at most 20% programming.
+
+In computer science you learn:
+- <!-- test-->
+
+## What is programming?
+
+It's somewhere between a foreign language and going to trade school.
+
+##
+
+
+
+## Policy Recommendations
 
 Some measures are easy to support unconditionally: Yes, a good computer science class should count as more than an elective. Yes, more schools should offer computer science classes. Yes, we want more people to learn computer science. But beyond these, there exist many different schools of thought, and nobody seems to be sure what to do.
 
 Perhaps the most influential figures in the development of modern computing, Steve Jobs gave us a suggestion when he said:
 
-"Everybody in this country should learn how to program a computer."
+> "Everybody in this country should learn how to program a computer."
 
 The Code.org petition seems like a nice start toward this vision, but a discerning eye will note the difference between "learn computer science" and "learn to program a computer." First we have to wonder, what even is the difference between programming and CS? The two are not one and the same, but many people either don't know the distinction or don't consider it important. For the sake of precise terminology, let's clear that up.
 
