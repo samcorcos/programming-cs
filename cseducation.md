@@ -46,9 +46,21 @@ It's somewhere between a foreign language and formal logic. A word you will hear
 
 Programming does not require a highly mathematical background, and much like a foreign language, the only way to become a better programmer is to practice. Most people who start programming are surprised to discover how easy it is to learn and how little math is involved. As a friend once described it to me, "Once it stops looking like The Matrix, it's actually pretty easy." In my experience, change of perception usually takes less than a month.
 
+## Background
+
 
 
 ## Problem Description
+
+I taught myself to program in middle school and was disappointed with the limited computer science offerings at my high school\*. In college, I taught computer science (CS) to many of my peers as an undergraduate TA for seven semesters, and also organized and ran four instances of a high-school-level programming contest\* totaling over 1000 participants. I've spent significant time interacting with CS students and instructors at both the secondary and post-secondary level.
+
+I've also explicitly discussed CS education with numerous high school teachers, learning of their successes, difficulties, and abject failures. Much of what I've heard has lined up with a 2013 survey by the _Computer Science Teachers Association_, which found that:
+
+> 40 percent of teachers said the greatest challenge in teaching computer science is a lack of support or interest from school staff. Another 35 percent said a lack of student interest or enrollment was the greatest challenge. Rapidly changing technology and a lack of curriculum resources were cited as the greatest challenge by 30.5 percent and 23.5 percent of teachers, respectively.
+
+The conversations I've had with teachers reflect the results of that study. One major problem these teachers have told me about is how they grade their programming assignments. They would typically receive submissions from their students by email, then run and evaluate them manually on their own computer. This archaic system takes an order of magnitude more time to grade than the widely-used submission systems and auto-graders used in most universities.
+
+They explain that without the enrollment numbers, staffing, or financial backing of a university CS department, they don't have the resources to develop or invest in something more sophisticated. Even if they did, schools typically only have one computer science teacher who would stand to benefit. Nonetheless, these teachers would always have inspiring stories of the students they've taught, the curiosity they've helped spark, and the exciting things their students have gone on to do.
 
 The existing high school advanced placement (AP) _Computer Science A_ curriculum is actually a programming course. It teaches object-oriented programming with Java, and its exam consists entirely of questions such as, "Here's a piece of code, what does it do?" and, "Here's a problem, write a program to solve it."
 
@@ -62,34 +74,7 @@ But in spite of these improvements, our education system is moving too slowly an
 
 ## Policy Options
 
-Some measures are easy to support unconditionally: Yes, a good computer science class should count as more than an elective. Yes, more schools should offer computer science classes. Yes, we want more people to learn computer science. But beyond these, there exist many different schools of thought.
-
-Perhaps the most influential figures in the development of modern computing, Steve Jobs gave us a suggestion when he said:
-
-> "Everybody in this country should learn how to program a computer."
-
-The Code.org petition seems like a nice start toward this vision, but a discerning eye will note the difference between "learn computer science" and "learn to program a computer."
-
-
-
-
-
-
-"Make everyone learn to code!" - Maybe not that much.
-
-"Give everyone the opportunity to learn computer science!" - Yes, at least this much!
-
-Now that I've stuck my flag in the ground and established the beginnings of a position, let me begin to develop it by presenting some more context and background before I launch into discussion of a series of arguments both for and against that position. First, who am I, what is my interest in this topic, and what perspective do I have?
-
-I taught myself to program in middle school, then lamented the limited computer science offerings in my high school\*\*\*. In college, I taught computer science to many of my peers as an undergraduate TA for seven semesters. I also organized and ran four instances of a high-school-level programming contest\*\*\* totaling over 1000 participants, so I've spent significant time interacting with CS students and instructors at both the secondary and post-secondary level.
-
-I've explicitly discussed CS education with numerous high school teachers, hearing stories of their struggles, successes, and varying perspectives. Much of what I've heard has lined up with a 2013 survey by the Computer Science Teachers Association, which found that:
-
-> 40 percent of teachers said the greatest challenge in teaching computer science is a lack of support or interest from school staff. Another 35 percent said a lack of student interest or enrollment was the greatest challenge. Rapidly changing technology and a lack of curriculum resources were cited as the greatest challenge by 30.5 percent and 23.5 percent of teachers, respectively.
-
-All of these were reflected in stories teachers have told me about how they grade their programming assignments. They would typically receive submissions from their students by email, and then run and evaluate them manually on their own computer. This is archaic compared to the online submission systems and autograders used in universities, but teachers seem complacent. They explain that without the enrollment numbers, staffing, or financial backing of a university CS department, they don't have the resources to develop or invest in something more sophisticated. Even if they did, schools typically only have one computer science teacher who would stand to benefit. Nonetheless, these teachers would always have inspiring stories of the students they've taught, the curiosity they've helped spark, and the exciting things their students have gone on to do.
-
-Asking those students what got them into computer science and how they decided to stick with it proved insightful. Answers and stories would vary widely, but a common thread came out: it took little time and exposure for them to realize they liked computer science. I've never heard anyone say that it took a long time for them to develop an interest in the subject; they just needed an introduction, and curiosity took care of the rest.
+When students are asked about what got them interested in computer science, a common thread quickly becomes apparent: they liked computer science after only a brief exposure to the topic. I've never heard anyone say that it took a long time to develop an interest in the subject; they just needed an introduction, and curiosity took care of the rest.
 
 This brings me to a study done some years ago that suggested an incredible related result. The original paper is [here](http://www.eis.mdx.ac.uk/research/PhDArea/saeed/SD_PPIG_2009.pdf), and Jeff Atwood provides a great summary [here](http://blog.codinghorror.com/separating-programming-sheep-from-non-programming-goats/). From the paper's abstract:
 
@@ -97,7 +82,9 @@ This brings me to a study done some years ago that suggested an incredible relat
 
 To quote Jeff Atwood's take, this means that "the act of programming seems literally unteachable to a sizable subset of incoming computer science students." This is not just numbers telling a story; every computer science educator I've asked has had some similar hunch that things just haven't quite clicked for some sizable portion of their class.
 
-I've seen it first hand over and over in my time as a teaching assistant for various intro-sequence programming-heavy CS courses. Every semester there would be a number of students who, not for lack of trying, simply could not make it through the course. It was prototypical: they would invest 20 or 30 hours per week, triple that of the average student, trying to get through each assignment, often spending 10 or sometimes even 20 hours in office hours seeking guidance, confirming understanding, and asking questions. As TAs we would do everything we could, but it was always painful seeing these students put forth so much effort while so many others breeze by in comparison, spending 5 or 10 hours per assignment and rarely needing help. It happened every semester, in every intro CS course, to a not-insignificant portion of the class. These are some of the brightest students in the world at the University of Pennsylvania, and once they find that CS isn't a good fit for them, they go on to be researchers, bankers, doctors, and lawyers. If these otherwise perfectly intelligent and hardworking students are finding that it's not for them, how can we possibly expect every high school student to learn any serious amount of programming?
+I've seen it first hand over and over in my time as a teaching assistant for various intro-sequence programming-heavy CS courses. Every semester there would be a number of students who, not for lack of trying, simply could not make it through the course. It was prototypical: they would invest 20 or 30 hours per week, triple that of the average student, trying to get through each assignment, often spending 10 or sometimes even 20 hours in office hours seeking guidance, confirming understanding, and asking questions.
+
+As TAs we would do everything we could, but it was always painful seeing these students put forth so much effort while so many others breeze by in comparison, spending 5 or 10 hours per assignment and rarely needing help. It happened every semester, in every intro CS course, to a not-insignificant portion of the class. These are some of the brightest students in the world at the University of Pennsylvania, and once they find that CS isn't a good fit for them, they go on to be researchers, bankers, doctors, and lawyers. If these otherwise perfectly intelligent and hardworking students are finding that it's not for them, how can we possibly expect every high school student to learn any serious amount of programming?
 
 Even if we dismiss the notion that many people just don't grasp programming as well as others, Dan Bricklin, a decorated technologist best known for inventing the electronic spreadsheet, offers another take:
 
@@ -113,6 +100,35 @@ Sam Altman, President of Y Combinator (the famous seed fund which helped Dropbox
 So what does all this mean? Programming isn't for everyone. Not everyone will like or be good at it, just like not everyone will like or be good at many other things. Plenty of people have little desire to learn accounting or law, and plenty of people have little desire to learn to program.
 
 All we need to do is knock on that potential desire's door and see if anyone answers. All we need to do is give students the opportunity to learn some computer science, including but not limited to an introduction to programming (think AP CS Principles), and they'll see for themselves if they want to learn more.
+
+
+
+## Policy Recommendations
+
+Some measures are easy to support unconditionally: Yes, a good computer science class should count as more than an elective. Yes, more schools should offer computer science classes. Yes, we want more people to learn computer science. But beyond these, there exist many different schools of thought.
+
+Perhaps the most influential figures in the development of modern computing, Steve Jobs gave us a suggestion when he said:
+
+> "Everybody in this country should learn how to program a computer."
+
+The Code.org petition is certainly a big step towards that vision, but as mentioned earlier, programming is not the same thing as computer science. I should mention that I am not demeaning programming, and it could be argued that an education in programming is more valuable than an education in computer science—it's hardly debatable that programming is a more marketable skill. But it is important to note the difference between the two and treat them accordingly.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 The students who find that they don't will still get something useful; they'll leave with a basic understanding of how computers are programmed and a variety of new understandings of how the technological world works. Perhaps more importantly, by taking an overview class instead of an all-programming class, they'll manage to avoid the negative experience of trying to immerse themselves in the increasing complexities of programming for several months /after/ they've already figured out that they either don't have a knack for it or just don't particularly like it.
 
@@ -168,8 +184,8 @@ Returning to our original four questions:
 
 To whomever may be reading this, I'm quite interested to hear what you think.
 
-*** Fortunately my high school did offer one CS class, and my computer science teacher was great. But there was only one of him, and he taught lots of other classes, and not many people took his CS class, so there wasn't much hope for anything further.
+\* Fortunately my high school did offer one CS class, and my computer science teacher was great. But there was only one of him, and he taught lots of other classes, and not many people took his CS class, so there wasn't much hope for anything further.
 
-*** PClassic.org
+\* PClassic.org
 
 todo: discuss survey, opinions esp. of principals from http://qz.com/502478/americans-agree-computer-science-is-important-but-only-one-quarter-of-us-schools-teach-it/
