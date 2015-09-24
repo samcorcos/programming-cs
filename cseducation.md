@@ -13,7 +13,8 @@ With so many public advocates coming forward—especially surrounding Code.org's
 But there's a subtlety at play when you try to get more specific and ask someone exactly _what_ they support. Do you support "programming" or "computer science" courses? Contrary to what you may think, these two subjects are about as different as Latin is to linear algebra. Allow me to explain.
 
 ## What is computer science?
-<img src="//upload.wikimedia.org/math/4/c/7/4c7865eedf738031608f23d47d2d51d3.png" />
+
+![RSA encryption algorith](https://upload.wikimedia.org/math/9/d/3/9d3716a8af04add4c6fba5341131ec46.png)
 
 It's math. As a computer science major myself, I can tell you first hand that computer science involves writing very little code—especially at the higher levels. If I had to arbitrarily assign a percentage to "math v. programming", I would say that computer science is at least 80% math and at most 20% programming.
 
