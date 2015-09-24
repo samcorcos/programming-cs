@@ -1,5 +1,6 @@
 # Should our schools offer programming or computer science courses?
-_hint: they're not the same thing_
+
+<h3>_hint: they're not the same thing_</h3>
 
 by [Lewis Ellis](http://github.com/lewisjellis) and [Sam Corcos](http://github.com/samcorcos)
 
