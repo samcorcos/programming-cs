@@ -1,4 +1,5 @@
-# Should our schools offer programming or computer science courses? _(hint: they're not the same thing)_
+# Should our schools offer programming or computer science courses?
+_hint: they're not the same thing_
 
 by [Lewis Ellis](http://github.com/lewisjellis) and [Sam Corcos](http://github.com/samcorcos)
 
@@ -45,10 +46,6 @@ function fibonacci(n) {
 It's somewhere between a foreign language and formal logic. A word you will hear a lot in programming is "syntax", which is how a particular programming language structures its logic. This might sound familiar because it's the same word—not coincidentally—that foreign language classes use to describe the structure of sentences.
 
 Programming does not require a highly mathematical background, and much like a foreign language, the only way to become a better programmer is to practice. Most people who start programming are surprised to discover how easy it is to learn and how little math is involved. As a friend once described it to me, "Once it stops looking like The Matrix, it's actually pretty easy." In my experience, change of perception usually takes less than a month.
-
-## Background
-
-
 
 ## Problem Description
 
@@ -99,6 +96,12 @@ Sam Altman, President of Y Combinator (the famous seed fund which helped Dropbox
 
 So what does all this mean? Programming isn't for everyone. Not everyone will like or be good at it; the same goes for computer science. But it is imperative that students have exposure to both subjects as early as possible so they can see for themselves if they want to learn more.
 
+## Challenges of Teaching Programming
+
+Curriculum for computer science courses is fairly uniform and well established. The mathematical underpinning of the subject matter has not changed in decades so teaching a class from year to year with the same, refined lectures is practical.
+
+Programming, on the other hand, is quite different. There are dozens of major programming languages, each with varying use cases, complexity, and performance. Most college-level programming courses (inappropriately named "computer science")
+
 ## Policy Recommendations
 
 Some measures are easy to support unconditionally: Yes, a good computer science class should count as more than an elective. Yes, more schools should offer computer science classes. Yes, we want more people to learn computer science. But beyond these, there exist many different schools of thought.
@@ -109,7 +112,13 @@ Perhaps the most influential figures in the development of modern computing, Ste
 
 The Code.org petition is certainly a big step towards that vision, but as mentioned earlier, programming is not the same thing as computer science.
 
+As a broad policy, I would recommend the following:
 
+```
+High schools should offer both programming and computer science.
+Programming courses should count in place of a foreign language.
+Computer science courses should count in place of a math or science course.
+```
 
 
 
@@ -129,8 +138,6 @@ The Code.org petition is certainly a big step towards that vision, but as mentio
 
 
 Arguments against blanket programming/cs req, to present/support:
-
-- Many bright students at top universities find that it's just not for them, so why should we force it to be for everyone?
 - What would it replace? What is it more important than? Are there better things to fix first in the general high school curriculum?
 - Let kids do it if they want, but why /require/?
 - Most states dont even have CS curricula/certifications, much less a good way to measure the effectiveness of CS curricula/teachers
