@@ -1,12 +1,12 @@
 # Should our schools offer programming or computer science courses? _(hint: they're not the same thing)_
 
-Advocates of computer science education have been pushing for improvements to pre-university computer science education, often bemoaning its underrepresentation and lack of recognition in our high schools. They're not without cause: as recently as 2013, only 9 U.S. states recognized Computer Science as a math or science class, and 90% of high schools had no offerings in the field. Countless big names have gotten behind efforts to improve this, and made big statements of encouragement:
+Advocates of computer science education have been pushing for improvements to pre-university computer science education, often bemoaning its underrepresentation and lack of recognition in our high schools. These complaints are not without merit: as recently as 2013, only 9 U.S. states recognized computer science as a math or science class, and 90% of high schools had no offerings in the field. Statement, entrepreneurs, and celebrities have encouraged a shift towards greater computer science education:
 
-"There just aren't enough people who are trained and have these skills today" - Mark Zuckerberg, Facebook
+> "There just aren't enough people who are trained and have these skills today" - Mark Zuckerberg, Facebook
 
-"It's important moving forward in the future, which is now, that everybody learn it" - Chris Bosh, Miami Heat
+> "It's important moving forward in the future, which is now, that everybody learn it" - Chris Bosh, Miami Heat
 
-"Give it a shot, and don't let anyone tell you you can't" - President Obama
+> "Give it a shot, and don't let anyone tell you you can't" - President Obama
 
 With so many such public advocates coming forward in recent months, especially surrounding Code.org's "Hour of Code" campaign last December, there's been plenty of buzz about computer science education. Visitors to Code.org are asked if they agree with the notion that "Every student in every school should have the opportunity to learn computer science," and to sign their name to show support. Nearly 2 million people have done so, myself included.
 
