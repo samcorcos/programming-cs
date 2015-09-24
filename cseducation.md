@@ -30,6 +30,16 @@ Also contrary to popular opinion, computer science majors are not necessarily go
 
 ## What is programming?
 
+```js
+function fibonacci(n) {
+   if (n < 2){
+     return 1;
+   } else {
+     return fibonacci(n - 2) + fibonacci(n - 1);
+   }
+}
+```
+
 It's somewhere between a foreign language and formal logic. A word you will hear a lot in programming is "syntax", which is how a particular programming language structures its logic. This might sound familiar because it's the same word—not coincidentally—that foreign language classes use to describe the structure of sentences.
 
 Programming does not require a highly mathematical background, and much like a foreign language, the only way to become a better programmer is to practice. Most people who start programming are surprised to discover how easy it is to learn and how little math is involved. As a friend once described it to me, "Once it stops looking like The Matrix, it's actually pretty easy." In my experience, change of perception usually takes less than a month.
