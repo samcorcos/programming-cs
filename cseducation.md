@@ -1,5 +1,7 @@
 # Should our schools offer programming or computer science courses? _(hint: they're not the same thing)_
 
+by [Lewis Ellis](http://github.com/lewisjellis) and [Sam Corcos](http://github.com/samcorcos)
+
 Advocates of computer science education have been pushing for improvements to pre-university computer science education, often bemoaning its underrepresentation and lack of recognition in our high schools. These complaints are not without merit: as recently as 2013, only 9 U.S. states recognized computer science as a math or science class, and 90% of high schools had no offerings in the field. Statement, entrepreneurs, and celebrities have encouraged a shift towards greater computer science education:
 
 > "There just aren't enough people who are trained and have these skills today" - Mark Zuckerberg, Facebook
@@ -32,7 +34,7 @@ Also contrary to popular opinion, computer science majors are not necessarily go
 
 ```js
 function fibonacci(n) {
-   if (n < 2){
+   if (n < 2) {
      return 1;
    } else {
      return fibonacci(n - 2) + fibonacci(n - 1);
@@ -44,27 +46,34 @@ It's somewhere between a foreign language and formal logic. A word you will hear
 
 Programming does not require a highly mathematical background, and much like a foreign language, the only way to become a better programmer is to practice. Most people who start programming are surprised to discover how easy it is to learn and how little math is involved. As a friend once described it to me, "Once it stops looking like The Matrix, it's actually pretty easy." In my experience, change of perception usually takes less than a month.
 
-##
 
 
+## Problem Description
 
-## Policy Recommendations
+The existing high school advanced placement (AP) _Computer Science A_ curriculum is actually a programming course. It teaches object-oriented programming with Java, and its exam consists entirely of questions such as, "Here's a piece of code, what does it do?" and, "Here's a problem, write a program to solve it."
 
-Some measures are easy to support unconditionally: Yes, a good computer science class should count as more than an elective. Yes, more schools should offer computer science classes. Yes, we want more people to learn computer science. But beyond these, there exist many different schools of thought, and nobody seems to be sure what to do.
+The recently introduced AP _Computer Science Principles_, on the other hand, focuses on higher-level computational thinking, with programming being only one of seven "big ideas" covered by the curriculum. It discusses topics from audio and video to how the internet works, how we keep things secure, and the impacts computer systems can and do have on the world. It's so unmarried to programming that it doesn't even require teachers to use a specific programming language.
+
+Of course, part of the confusion comes from history: AP Computer Science A (and formerly AP CS AB) was largely the only show in town for decades, and it was a programming course being called Computer Science. The AP Computer Science Principles curriculum is the kind of broad foundation course suited for the more general "Computer Science" name.
+
+This new AP Computer Science Principles curriculum was introduced in late 2014 for launch during the 2016-17 school year, and 60 million students participated in "Hour of Code" in 2014, compared to just 20 million in 2013. We now have 27 states recognizing computer science courses as more than just an elective, and the rate of adoption is increasing.
+
+But in spite of these improvements, our education system is moving too slowly and without a clear understanding of the direction in which we are going.
+
+## Policy Options
+
+Some measures are easy to support unconditionally: Yes, a good computer science class should count as more than an elective. Yes, more schools should offer computer science classes. Yes, we want more people to learn computer science. But beyond these, there exist many different schools of thought.
 
 Perhaps the most influential figures in the development of modern computing, Steve Jobs gave us a suggestion when he said:
 
 > "Everybody in this country should learn how to program a computer."
 
-The Code.org petition seems like a nice start toward this vision, but a discerning eye will note the difference between "learn computer science" and "learn to program a computer." First we have to wonder, what even is the difference between programming and CS? The two are not one and the same, but many people either don't know the distinction or don't consider it important. For the sake of precise terminology, let's clear that up.
+The Code.org petition seems like a nice start toward this vision, but a discerning eye will note the difference between "learn computer science" and "learn to program a computer."
 
-The existing AP Computer Science A curriculum is almost entirely a programming course. It teaches object-oriented programming with Java, and its exam consists entirely of questions like "Here's a piece of code, what does it do?" and "Here's a problem, write a program to solve it."
 
-The recently introduced AP Computer Science Principles, on the other hand, focuses on higher-level computational thinking, with programming being only one of seven "big ideas" covered by the curriculum. It discusses topics from audio and video to how the internet works, how we keep things secure, and the impacts computer systems can and do have on the world. It's so unmarried to programming that it doesn't even require teachers to use a specific programming language.
 
-Of course, part of the confusion comes from history: AP Computer Science A (and formerly AP CS AB) was largely the only show in town for decades, and it was a programming course being called Computer Science. The AP CS Principles curriculum is the kind of broad foundation course suited for the more general "Computer Science" name.
 
-This new AP CS Principles curriculum was introduced in late 2014 for launch during the 2016-17 school year, and 60 million students participated in "Hour of Code" in 2014, compared to just 20 million in 2013. We now have 27 states recognizing computer science courses as more than just an elective. Even over just the last two years, we've seen great improvements, but where we are now isn't enough for the long term. The internet isn't going anywhere, and neither are personal computing devices, with over one billion smartphones sold in 2014. What do we have to do to keep up?
+
 
 "Make everyone learn to code!" - Maybe not that much.
 
