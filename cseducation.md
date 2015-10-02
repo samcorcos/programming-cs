@@ -2,7 +2,7 @@
 
 by [Lewis Ellis](http://github.com/lewisjellis) and [Sam Corcos](http://github.com/samcorcos)
 
-Advocates of computer science education have been pushing for improvements to pre-university computer science education, often bemoaning its underrepresentation and lack of recognition in our high schools. These complaints are not without merit: as recently as 2013, only 9 U.S. states recognized computer science as a math or science class, and 90% of high schools had no offerings in the field. Statement, entrepreneurs, and celebrities have encouraged a shift towards greater computer science education:
+Advocates of computer science education have been pushing for improvements to pre-university computer science education, often bemoaning its underrepresentation and lack of recognition in our high schools. These complaints are not without merit: as recently as 2013, only 9 U.S. states recognized computer science as a math or science class, and 90% of high schools had no offerings in the field. Statesmen, entrepreneurs, and celebrities have encouraged a shift towards greater computer science education:
 
 > "There just aren't enough people who are trained and have these skills today" - Mark Zuckerberg, Facebook
 
@@ -58,7 +58,15 @@ The conversations I've had with teachers reflect the results of that study. One 
 
 They explain that without the enrollment numbers, staffing, or financial backing of a university CS department, they don't have the resources to develop or invest in something more sophisticated. Even if they did, schools typically only have one computer science teacher who would stand to benefit. Nonetheless, these teachers would always have inspiring stories of the students they've taught, the curiosity they've helped spark, and the exciting things their students have gone on to do.
 
-The existing high school advanced placement (AP) _Computer Science A_ curriculum is actually a programming course. It teaches object-oriented programming with Java, and its exam consists entirely of questions such as, "Here's a piece of code, what does it do?" and, "Here's a problem, write a program to solve it."
+One challenge is convincing students to take a computer science course if it is offered. This is primarily due to the fact that it is often offered exclusively as an elective. A series of missing incentives has been stunting the growth of computer science education in a negatively-reinforcing spiral. When a class doesn't count for anything, there is:
+
+  - no incentive for students to take it, and thus...
+  - no incentive for schools to offer it, and thus...
+  - no incentive for teachers to train to teach it.
+
+It would be unfortunate if students who would otherwise be interested are turned away from the field prematurely by poorly implemented or under-supported graduation requirements.
+
+The existing high school advanced placement (AP) _Computer Science A_ curriculum is actually mostly a programming course. It teaches object-oriented programming with Java, and its exam consists entirely of questions such as, "Here's a piece of code, what does it do?" and, "Here's a problem, write a program to solve it."
 
 The recently introduced AP _Computer Science Principles_, on the other hand, focuses on higher-level computational thinking, with programming being only one of seven "big ideas" covered by the curriculum. It discusses topics from audio and video to how the internet works, how we keep things secure, and the impacts computer systems can and do have on the world. It's so unmarried to programming that it doesn't even require teachers to use a specific programming language.
 
@@ -100,8 +108,8 @@ As TAs we would do everything we could, but it was always painful seeing these s
 
 Even if we dismiss the notion that many people just don't grasp programming as well as others, Dan Bricklin, a decorated technologist best known for inventing the electronic spreadsheet, offers another take:
 
-> Programming is a very error-prone business, especially with "typed-statement" systems. Most of them are very intolerant of errors (even simple typos). You must really have a good conceptual model of how each individual statement (and its sub-components) effects the result in conjunction with each other statement. You have to know how to check for proper operation (testing) and how to find out what to fix if it isn't (debugging). Unless you are totally immersed in that particular programming system (understanding the varieties and subtleties of its statements and functions) it is very hard for most people to do this. Most people will not get immersed in such systems that way.
-> ...this is not to say that many people can't get immersed in systems that require such understanding. They do in many parts of their lives. For example, lawyers and tax accountants routinely work with such complexity in their contracts and planning. Doctors work with an untold number of variables. Someone planning a big party has to work out the food, matching paper goods, favors, invitation list, entertainment, etc. Yet, all of these people rarely program computers in addition. It's just that people who aren't professional or hobbyist programmers usually don't want to get so immersed in something that is infrequently done and not part of the rest of their lives. The question really isn't "Why Johnny can't program" but rather "Why Johnny won't or doesn't choose to program".
+> Programming is a very error-prone business, especially with "typed-statement" systems. Most of them are very intolerant of errors (even simple typos)...Unless you are totally immersed in that particular programming system...it is very hard for most people to do...
+> ...this is not to say that many people can't get immersed in systems that require such understanding. They do in many parts of their lives. For example, lawyers and tax accountants routinely work with such complexity in their contracts and planning. Doctors work with an untold number of variables...It's just that people who aren't professional or hobbyist programmers usually don't want to get so immersed in something that is infrequently done and not part of the rest of their lives. The question really isn't "Why Johnny can't program" but rather "Why Johnny won't or doesn't choose to program".
 
 Instead of splitting people into performance-based buckets, he considers motivations and complexity and suggests that maybe there's some self-selection going on. Maybe some people just don't want to invest heavily in something for which they see correspondingly little use. Maybe some people like some flavors of complexity but not others.
 
@@ -110,6 +118,21 @@ Sam Altman, President of Y Combinator (the famous seed fund which helped Dropbox
 > Everyone should have the opportunity to learn to code. But it's not the answer to everything. Not everyone will like it or be good at it. I will never like or be good at football. A world where CS is the only option would be a sad one indeed.
 
 So what does all this mean? Programming isn't for everyone. Not everyone will like or be good at it; the same goes for computer science. But it is imperative that students have the opportunity to try computer science sooner rather than later, so as to decide for themselves if they want to learn more.
+
+Now that we've covered much of the background, there are four policy options that should be considered:
+
+1. "Should all schools offer CS classes?"
+2. "Should all schools offer programming classes?"
+3. "Should all schools require CS classes?"
+4. "Should all schools require programming classes?"
+
+The first would oblige schools to offer a computer science class with the current curriculum; as a basic introduction to the field, the current curriculum will suffice. This policy option is absolutely worth implementing.
+
+The second would oblige schools to offer a programming course. Unfortunately, this would be new for public schools and would require a new curriculum and additional training for teachers. Online resources, such as CodeAcademy, CodeSchool, KhanAcademy, and dozens of others have done a tremendous job making curriculum that is easily accessible and cutting edge. The coupling of classroom learning with some of these online resources might be the key to teaching programming courses. This policy option is only worth implementing if there are sufficient resources dedicated to making it work.
+
+The third option would require students to take a computer science class as a graduation requirement. This is something of an inevitability, but it is likely premature to require it now. That said, the math one learns in computer science is no less applicable to long-term success than geometry or calculus.
+
+The fourth option would require students to take a programming course as a graduation requirement. This would mean learning a programming language, such as JavaScript, C++, Haskel, etc. While this would be a useful skill for many people, it is also entirely unnecessary to require it in the classroom. Unlike English, math, or history, programming is a skill that lacks wide applicability outside of the act of programming itself.
 
 ## Policy Recommendations
 
@@ -122,33 +145,11 @@ Another recommendation is to set clear certification pathways and curricula for 
 As a broad policy, I would recommend the following, in order of importance:
 
 ```
-High schools should offer computer science courses, with the current curriculum.
-Computer science courses should satisfy a math or science course requirement.
-All students should have the option to take at least an introductory computer science or programming course.
-High schools should offer programming courses in JavaScript.
+1. High schools should offer computer science courses, with the current curriculum.
+2. Computer science courses should satisfy a math or science course requirement.
+3. All students should have the option to take at least an introductory computer science or programming course.
+4. High schools should offer programming courses in JavaScript.
 ```
-
-********* note: I actually very much disagree with the foreign language bit, feel free to ping me for discussion, but i think regardless of whether or not i agree with it, we haven't developed any support for that suggestion here, and i dont think we should make any recommendations without introduction or explanation
-
-******** things to try to work in:
-1. Make CS more than an elective. A series of missing incentives has been stunting the growth of computer science education. When a class doesn't count for anything, there's:
-  - no incentive for students to take it, and thus
-  - no incentive for schools to offer it, and thus
-  - no incentive for teachers to train to teach it
-
-Returning to our original four questions:
-- "Should all schools offer CS classes?" - Absolutely, as much as possible.
-- "Should all schools offer programming classes?" - Yes, if we have enough good teachers to teach them, but there's no sense in doing it poorly or without sufficient resources.
-- "Should all schools require CS classes?" - Eventually, yes, but definitely not yet.
-- "Should all schools require programming classes?" - Absolutely not.
-
-- We don't want students who would otherwise be interested to be turned away from the field prematurely by a poorly implemented or undersupported graduation requirement, so let's not half-ass computer science at the high school level
-
-*******end things to try to work in
-
-Courses beyond the introductory-level can be language agnostic.
-
-__NEEDS MORE CONCISE RECOMMENDATIONS__
 
 To whomever may be reading this, I'm quite interested to hear what you think.
 
